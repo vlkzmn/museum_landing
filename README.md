@@ -1,6 +1,6 @@
 # Museum Landing Page
 <p>Landing page for the National Art Museum of Ukraine. Provides information about museum opening hours, ticket prices, current exhibitions and events, displays a gallery of some paintings, and displays a form for subscribing to museum news.</p>
-<h1><a href="https://vlkzmn.github.io/museum-landing/">LIVE DEMO</a></h1>
+<h1><a href="https://vlkzmn.github.io/museum_landing/">LIVE DEMO</a></h1>
 
 # Technologies used
 <ul>
