@@ -17,12 +17,12 @@
 <p>Semantic and meta tags are used. SEO optimization is done. Images are optimized. Accessibility is improved.</p>
 <p><em>see google lighthouse report below:</em></p>
 <p align="center">
-  <img src="https://github.com/vlkzmn/museum-landing/raw/master/src/images/lightHouseGoogle.png" width="700px" alt="Museum Landing Page lighthouse">
+  <img src="https://github.com/vlkzmn/museum_landing/raw/master/src/images/lightHouseGoogle.png" width="700px" alt="Museum Landing Page lighthouse">
 </p>
 
 # Preview
 <p align="center">
-  <img src="https://github.com/vlkzmn/museum-landing/raw/master/src/images/preview.gif" alt="Museum Landing Page">
+  <img src="https://github.com/vlkzmn/museum_landing/raw/master/src/images/preview.gif" alt="Museum Landing Page">
 </p>
 
 # In Conclusion
