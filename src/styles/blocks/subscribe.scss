@@ -1,0 +1,59 @@
+.subscribe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 386px;
+  background-image: url(../../src/images/foto/subsribe_mob.webp);
+  background-size: cover;
+  background-position: center;
+
+  @include onTablet {
+    height: 380px;
+    background-image: url(../../src/images/foto/subsribe_tab.webp);
+  }
+
+  @include onDesktop {
+    height: 550px;
+    background-image: url(../../src/images/foto/subsribe.webp);
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: $white;
+  }
+
+  &__title {
+    margin-bottom: 20px;
+    font-family: $montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 100%;
+
+    @include onTablet {
+      margin-bottom: 16px;
+      font-size: 48px;
+    }
+  }
+
+  &__description {
+    margin-bottom: 50px;
+    padding: 0 20px;
+    font-family: $ibm;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 150%;
+
+    @include onTablet {
+      margin-bottom: 64px;
+      padding: 0;
+      line-height: 100%;
+    }
+
+    @include onDesktop {
+      margin-bottom: 72px;
+    }
+  }
+}
